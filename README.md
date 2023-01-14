@@ -1,6 +1,5 @@
 <div align="center">
-<img width="100%" height="250px" src="https://camo.githubusercontent.com/02ce499d5bce949935846b0139b3f2038cfa38dccf1c56ef6aabde95f86c4611/68747470733a2f2f63646e2e706978616261792e636f6d2f70686f746f2f323031382f30312f31342f32332f31322f6e61747572652d333038323833325f313238302e6a7067" alt="cover" data-canonical-src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" style="max-width:100%;">
-</div>
+
 
 <h1 align='left'> Hello World <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
